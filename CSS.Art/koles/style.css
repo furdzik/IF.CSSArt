@@ -1,0 +1,2366 @@
+#field7 {
+    position: absolute;
+    top:95px;
+    left:360px;
+    width:400px;
+    height:300px;
+    background:#766F69;
+}
+#dude {
+    /*background: url("yeezy_dribble.png") no-repeat scroll 0 0 transparent; */
+    bottom: 15px;
+    height: 269px;
+    left: 100px;
+    overflow: hidden;
+    position: absolute;
+    width: 197px;
+}
+#dude div {
+    position:absolute;
+    top:0;
+    left:0;
+}
+#dude div > span {
+    display: block;
+    position: absolute;
+    top:0;
+    left:0;
+}
+/* włosy #232019 */
+#dude #dh {
+    height: 62px;
+    left: auto;
+    right: 11px;
+    width: 134px;
+}
+#dude #dh > span {
+    background: #232019;
+}
+#dude #dh > span:nth-child(1) {
+    height: 6px;
+    left: 0;
+    top: 22px;
+    width: 5px;
+}
+#dude #dh > span:nth-child(2) {
+    height: 12px;
+    left: 5px;
+    top: 16px;
+    width: 5px;
+}
+#dude #dh > span:nth-child(3) {
+    height: 17px;
+    left: 10px;
+    top: 11px;
+    width: 6px;
+}
+#dude #dh > span:nth-child(4) {
+    height: 23px;
+    left: 16px;
+    top: 5px;
+    width: 12px;
+}
+#dude #dh > span:nth-child(5) {
+    height: 28px;
+    left: 28px;
+    top: 0;
+    width: 56px;
+}
+#dude #dh > span:nth-child(6) {
+    height: 5px;
+    left: 44px;
+    top: 28px;
+    width: 40px;
+}
+#dude #dh > span:nth-child(7) {
+    height: 5px;
+    left: 50px;
+    top: 33px;
+    width: 34px;
+}
+#dude #dh > span:nth-child(8) {
+    height: 6px;
+    left: 56px;
+    top: 38px;
+    width: 28px;
+}
+#dude #dh > span:nth-child(9) {
+    height: 39px;
+    left: 84px;
+    top: 5px;
+    width: 11px;
+}
+#dude #dh > span:nth-child(10) {
+    height: 33px;
+    left: 95px;
+    top: 11px;
+    width: 11px;
+}
+#dude #dh > span:nth-child(11) {
+    height: 40px;
+    left: 100px;
+    top: 16px;
+    width: 12px;
+}
+#dude #dh > span:nth-child(12) {
+    height: 39px;
+    left: 112px;
+    top: 22px;
+    width: 6px;
+}
+#dude #dh > span:nth-child(13) {
+    height: 34px;
+    left: 118px;
+    top: 27px;
+    width: 5px;
+}
+#dude #dh > span:nth-child(14) {
+    height: 28px;
+    left: 123px;
+    top: 33px;
+    width: 6px;
+}
+#dude #dh > span:nth-child(15) {
+    height: 17px;
+    left: 129px;
+    top: 39px;
+    width: 6px;
+}
+/* włosy 2 #423B31 */
+#dude #dh2 {
+    height: 68px;
+    left: auto;
+    right: 0;
+    top: 44px;
+    width: 51px;
+}
+#dude #dh2 > span {
+    background: #423B31;
+}
+#dude #dh2 > span:nth-child(1) {
+    height: 23px;
+    left: 0;
+    top: 0;
+    width: 6px;
+}
+#dude #dh2 > span:nth-child(2) {
+    height: 17px;
+    left: 6px;
+    top: 12px;
+    width: 12px;
+}
+#dude #dh2 > span:nth-child(3) {
+    height: 12px;
+    left: 18px;
+    top: 17px;
+    width: 6px;
+}
+#dude #dh2 > span:nth-child(4) {
+    height: 17px;
+    left: 24px;
+    top: 17px;
+    width: 5px;
+}
+#dude #dh2 > span:nth-child(5) {
+    height: 34px;
+    left: 29px;
+    top: 17px;
+    width: 6px;
+}
+#dude #dh2 > span:nth-child(6) {
+    height: 45px;
+    left: 35px;
+    top: 12px;
+    width: 6px;
+}
+#dude #dh2 > span:nth-child(7) {
+    height: 51px;
+    left: 41px;
+    top: 6px;
+    width: 5px;
+}
+#dude #dh2 > span:nth-child(8) {
+    height: 23px;
+    left: 46px;
+    top: 17px;
+    width: 5px;
+}
+#dude #dh2 > span:nth-child(9) {
+    height: 5px;
+    left: 18px;
+    top: 57px;
+    width: 28px;
+}
+#dude #dh2 > span:nth-child(10) {
+    height: 6px;
+    left: 23px;
+    top: 62px;
+    width: 17px;
+}
+/* włosy 2a #524D47 */
+#dude #dh2a {
+    height: 44px;
+    left: auto;
+    right: 0;
+    top: 84px;
+    width: 12px;
+}
+#dude #dh2a > span {
+    background: #524D47;
+}
+#dude #dh2a > span:nth-child(1) {
+    height: 28px;
+    left: auto;
+    right: 0;
+    top: 0;
+    width: 5px;
+}
+#dude #dh2a > span:nth-child(2) {
+    height: 23px;
+    left: auto;
+    right: 5px;
+    top: 22px;
+    width: 6px;
+}
+/* włosy 2b #3C2E13 */
+#dude #dh2b {
+    height: 22px;
+    left: 52px;
+    top: 28px;
+    width: 49px;
+}
+#dude #dh2b > span {
+    background: #3C2E13;
+}
+#dude #dh2b > span:nth-child(1) {
+    height: 5px;
+    left: 0;
+    top: 0;
+    width: 39px;
+}
+#dude #dh2b > span:nth-child(2) {
+    height: 6px;
+    left: 33px;
+    top: 5px;
+    width: 6px;
+}
+#dude #dh2b > span:nth-child(3) {
+    height: 6px;
+    left: 39px;
+    top: 11px;
+    width: 5px;
+}
+#dude #dh2b > span:nth-child(4) {
+    height: 6px;
+    left: 44px;
+    top: 17px;
+    width: 6px;
+}
+/* włosy 3 #3B2609 */
+#dude #dh3 {
+    height: 45px;
+    left: 91px;
+    top: 28px;
+    width: 55px;
+}
+#dude #dh3 > span {
+    background: #3B2609;
+}
+#dude #dh3 > span:nth-child(1) {
+    height: 11px;
+    left: 0;
+    top: 0;
+    width: 5px;
+}
+#dude #dh3 > span:nth-child(2) {
+    height: 12px;
+    left: 5px;
+    top: 5px;
+    width: 6px;
+}
+#dude #dh3 > span:nth-child(3) {
+    height: 13px;
+    left: 11px;
+    top: 10px;
+    width: 6px;
+}
+#dude #dh3 > span:nth-child(4) {
+    height: 12px;
+    left: auto;
+    right:0;
+    top: 16px;
+    width: 44px;
+}
+#dude #dh3 > span:nth-child(5) {
+    height: 5px;
+    left: auto;
+    right: 0;
+    top: 28px;
+    width: 15px;
+}
+#dude #dh3 > span:nth-child(6) {
+    height: 6px;
+    left: auto;
+    right: 5px;
+    top: 33px;
+    width: 16px;
+}
+#dude #dh3 > span:nth-child(7) {
+    height: 6px;
+    left: auto;
+    right: 10px;
+    top: 39px;
+    width: 17px;
+}
+/* włosy 4 #232019 */
+#dude #dh4 {
+    height: 67px;
+    left: auto;
+    right: 11px;
+    top: 112px;
+    width: 22px;
+}
+#dude #dh4 > span {
+    background: #232019;
+}
+#dude #dh4 > span:nth-child(1) {
+    height: 22px;
+    left: auto;
+    right: 0;
+    top: 0;
+    width: 5px;
+}
+#dude #dh4 > span:nth-child(2) {
+    height: 16px;
+    left: auto;
+    right: 5px;
+    top: 12px;
+    width: 6px;
+}
+#dude #dh4 > span:nth-child(3) {
+    height: 55px;
+    left: auto;
+    right: 11px;
+    top: 12px;
+    width: 6px;
+}
+#dude #dh4 > span:nth-child(4) {
+    height: 28px;
+    left: 0;
+    top: 17px;
+    width: 5px;
+}
+#dude #dh4 > span:nth-child(5) {
+    height: 6px;
+    left: 0;
+    top: 56px;
+    width: 6px;
+}
+/* ucho #1A0001, #482708, #553415 */
+#dude #due {
+    height: 39px;
+    left: auto;
+    right: 0;
+    top: 129px;
+    width: 22px;
+}
+#dude #due > span:nth-child(1) {
+    background: #1A0001;
+    height: 6px;
+    left: 6px;
+    top: 5px;
+    width: 5px;
+}
+#dude #due > span:nth-child(2) {
+    background: none repeat scroll 0 0 #482708;
+    height: 17px;
+    left: 11px;
+    top: 0;
+    width: 6px;
+}
+#dude #due > span:nth-child(3) {
+    background: none repeat scroll 0 0 #482708;
+    height: 6px;
+    left: 0;
+    top: 11px;
+    width: 17px;
+}
+#dude #due > span:nth-child(4) {
+    background: none repeat scroll 0 0 #482708;
+    height: 5px;
+    left: 0;
+    top: 17px;
+    width: 6px;
+}
+#dude #due > span:nth-child(5) {
+    background: none repeat scroll 0 0 #553415;
+    height: 17px;
+    left: 0;
+    top: 22px;
+    width: 11px;
+}
+#dude #due > span:nth-child(6) {
+    background: none repeat scroll 0 0 #553415;
+    height: 16px;
+    left: 6px;
+    top: 17px;
+    width: 11px;
+}
+#dude #due > span:nth-child(7) {
+    background: none repeat scroll 0 0 #553415;
+    height: 17px;
+    left: auto;
+    right: 0;
+    top: 5px;
+    width: 5px;
+}
+/* gęba-czoło #754918, #9A6435, #C19371, #8D613A, #5F3A0E, #463724,#836040,     #745B47,#885828,#69421B,#2A180A, #734919, #8F5A18, #704109,#301909, #1F1B18, #1D0C05, 3E2604,    */
+#dude #duge-c {
+    height: 73px;
+    left: 29px;
+    top: 33px;
+    width: 107px;
+}
+#dude #duge-c > span.duge-c1 {
+    background: #754918;
+}
+#dude #duge-c > span.duge-c1:nth-child(1) {
+    height: 6px;
+    left: 17px;
+    top: 0;
+    width: 17px;
+}
+#dude #duge-c > span.duge-c1:nth-child(2) {
+    height: 6px;
+    left: 12px;
+    top: 6px;
+    width: 16px;
+}
+#dude #duge-c > span.duge-c1:nth-child(3) {
+    height: 16px;
+    left: 12px;
+    top: 12px;
+    width: 11px;
+}
+#dude #duge-c > span.duge-c1:nth-child(4) {
+    height: 11px;
+    left: 6px;
+    top: 23px;
+    width: 11px;
+}
+#dude #duge-c > span.duge-c1:nth-child(5) {
+    height: 23px;
+    left: 0;
+    top: 34px;
+    width: 11px;
+}
+#dude #duge-c > span.duge-c1:nth-child(6) {
+    background: none repeat scroll 0 0 #4B3A26;
+    height: 5px;
+    left: -5px;
+    top: 51px;
+    width: 5px;
+}
+#dude #duge-c > span.duge-c1:nth-child(7) {
+    background: none repeat scroll 0 0 #473823;
+    height: 5px;
+    left: 0;
+    top: 57px;
+    width: 17px;
+}
+#dude #duge-c > span.duge-c2 {
+    background: #9A6435;
+}
+#dude #duge-c > span.duge-c2:nth-child(8) {
+    height: 6px;
+    left: 27px;
+    top: 6px;
+    width: 29px;
+}
+#dude #duge-c > span.duge-c2:nth-child(9) {
+    height: 6px;
+    left: 23px;
+    top: 12px;
+    width: 39px;
+}
+#dude #duge-c > span.duge-c2:nth-child(10) {
+    height: 6px;
+    left: 23px;
+    top: 17px;
+    width: 28px;
+}
+#dude #duge-c > span.duge-c2:nth-child(11) {
+    height: 11px;
+    left: 23px;
+    top: 23px;
+    width: 11px;
+}
+#dude #duge-c > span.duge-c2:nth-child(12) {
+    height: 12px;
+    left: 17px;
+    top: 28px;
+    width: 11px;
+}
+#dude #duge-c > span.duge-c2:nth-child(13) {
+    height: 23px;
+    left: 11px;
+    top: 34px;
+    width: 12px;
+}
+#dude #duge-c > span.duge-c3 {
+    background: #C19371;
+}
+#dude #duge-c > span.duge-c3:nth-child(14) {
+    height: 6px;
+    left: 34px;
+    top: 23px;
+    width: 22px;
+}
+#dude #duge-c > span.duge-c3:nth-child(15) {
+    height: 5px;
+    left: 34px;
+    top: 29px;
+    width: 11px;
+}
+#dude #duge-c > span.duge-c3:nth-child(16) {
+    height: 23px;
+    left: 28px;
+    top: 34px;
+    width: 28px;
+}
+#dude #duge-c > span.duge-c3:nth-child(17) {
+    height: 17px;
+    left: 23px;
+    top: 40px;
+    width: 5px;
+}
+#dude #duge-c > span.duge-c3:nth-child(18) {
+    height: 5px;
+    left: 17px;
+    top: 57px;
+    width: 28px;
+}
+#dude #duge-c > span.duge-c4 {
+    background: #8D613A;
+}
+#dude #duge-c > span.duge-c4:nth-child(19) {
+    height: 5px;
+    left: 45px;
+    top: 29px;
+    width: 17px;
+}
+#dude #duge-c > span.duge-c4:nth-child(20) {
+    height: 23px;
+    left: 56px;
+    top: 34px;
+    width: 12px;
+}
+#dude #duge-c > span.duge-c4:nth-child(21) {
+    height: 5px;
+    left: 45px;
+    top: 57px;
+    width: 16px;
+}
+#dude #duge-c > span.duge-c4:nth-child(22) {
+    height: 6px;
+    left: 17px;
+    top: 62px;
+    width: 34px;
+}
+#dude #duge-c > span.duge-c4:nth-child(23) {
+    background: none repeat scroll 0 0 #836042;
+    height: 11px;
+    left: 61px;
+    top: 57px;
+    width: 7px;
+}
+#dude #duge-c > span.duge-c4:nth-child(24) {
+    background: none repeat scroll 0 0 #836042;
+    height: 6px;
+    left: 51px;
+    top: 62px;
+    width: 11px;
+}
+#dude #duge-c > span.duge-c5 {
+    background: #5F3A0E;
+}
+#dude #duge-c > span.duge-c5:nth-child(25) {
+    height: 6px;
+    left: 62px;
+    top: 12px;
+    width: 5px;
+}
+#dude #duge-c > span.duge-c5:nth-child(26) {
+    height: 5px;
+    left: 51px;
+    top: 18px;
+    width: 28px;
+}
+#dude #duge-c > span.duge-c5:nth-child(27) {
+    height: 6px;
+    left: 56px;
+    top: 23px;
+    width: 46px;
+}
+#dude #duge-c > span.duge-c5:nth-child(28) {
+    height: 6px;
+    left: 62px;
+    top: 28px;
+    width: 34px;
+}
+#dude #duge-c > span.duge-c5:nth-child(29) {
+    height: 6px;
+    left: 68px;
+    top: 34px;
+    width: 22px;
+}
+#dude #duge-c > span.duge-c5:nth-child(30) {
+    height: 11px;
+    left: 68px;
+    top: 40px;
+    width: 28px;
+}
+#dude #duge-c > span.duge-c5:nth-child(31) {
+    height: 17px;
+    left: 73px;
+    top: 51px;
+    width: 23px;
+}
+#dude #duge-c > span.duge-c5:nth-child(32) {
+    height: 11px;
+    left: 95px;
+    top: 62px;
+    width: 12px;
+}
+#dude #duge-c > span.duge-c5:nth-child(33) {
+    height: 6px;
+    left: 56px;
+    top: 6px;
+    width: 6px;
+}
+#dude #duge-c > span.duge-c5:nth-child(34) {
+    height: 6px;
+    left: 34px;
+    top: 0;
+    width: 22px;
+}
+#dude #duge-c > span.duge-c5:nth-child(35) {
+    background: none repeat scroll 0 0 #6B451E;
+    height: 17px;
+    left: 68px;
+    top: 51px;
+    width: 5px;
+}
+#dude #duge-c > span.duge-c5:nth-child(36) {
+    background: none repeat scroll 0 0 #39280E;
+    height: 5px;
+    left: 79px;
+    top: 68px;
+    width: 11px;
+}
+/* okulary */
+#dude #duok {
+    height: 63px;
+    left: 1px;
+    top: 89px;
+    width: 140px;
+}
+#dude #duok > span {
+    background: #050505;
+}
+#dude #duok > span.w {
+    background: #C7C7C5;
+}
+#dude #duok > span:nth-child(1) {
+    height: 17px;
+    left: 0;
+    top: 6px;
+    width: 5px;
+}
+#dude #duok > span:nth-child(2) {
+    height: 51px;
+    left: 5px;
+    top: 0;
+    width: 23px;
+}
+#dude #duok > span:nth-child(3) {
+    height: 34px;
+    left: 17px;
+    top: 23px;
+    width: 22px;
+}
+#dude #duok > span:nth-child(4) {
+    height: 23px;
+    left: 39px;
+    top: 28px;
+    width: 6px;
+}
+#dude #duok > span:nth-child(5) {
+    height: 18px;
+    left: 45px;
+    top: 28px;
+    width: 6px;
+}
+#dude #duok > span:nth-child(6) {
+    height: 12px;
+    left: 28px;
+    top: 6px;
+    width: 6px;
+}
+#dude #duok > span:nth-child(7) {
+    height: 6px;
+    left: 28px;
+    top: 6px;
+    width: 17px;
+}
+#dude #duok > span:nth-child(8) {
+    height: 5px;
+    left: 39px;
+    top: 12px;
+    width: 68px;
+}
+#dude #duok > span:nth-child(9) {
+    height: 6px;
+    left: 51px;
+    top: 17px;
+    width: 38px;
+}
+#dude #duok > span:nth-child(10) {
+    height: 6px;
+    left: 51px;
+    top: 23px;
+    width: 33px;
+}
+#dude #duok > span:nth-child(11) {
+    height: 5px;
+    left: 61px;
+    top: 29px;
+    width: 23px;
+}
+#dude #duok > span:nth-child(12) {
+    height: 6px;
+    left: 61px;
+    top: 34px;
+    width: 29px;
+}
+#dude #duok > span:nth-child(13) {
+    height: 6px;
+    left: 67px;
+    top: 40px;
+    width: 63px;
+}
+#dude #duok > span:nth-child(14) {
+    height: 11px;
+    left: 72px;
+    top: 46px;
+    width: 51px;
+}
+#dude #duok > span:nth-child(15) {
+    height: 6px;
+    left: 78px;
+    top: 57px;
+    width: 40px;
+}
+#dude #duok > span:nth-child(16) {
+    height: 6px;
+    left: 101px;
+    top: 34px;
+    width: 28px;
+}
+#dude #duok > span:nth-child(17) {
+    height: 6px;
+    left: 117px;
+    top: 28px;
+    width: 23px;
+}
+#dude #duok > span:nth-child(18) {
+    height: 6px;
+    left: 101px;
+    top: 17px;
+    width: 17px;
+}
+#dude #duok > span:nth-child(19) {
+    height: 6px;
+    left: 112px;
+    top: 22px;
+    width: 11px;
+}
+#dude #duok > span:nth-child(20) {
+    background: none repeat scroll 0 0 #292927;
+    height: 6px;
+    left: 112px;
+    top: 28px;
+    width: 5px;
+}
+#dude #duok > span:nth-child(21) {
+    background: none repeat scroll 0 0 #1C0B04;
+    height: 6px;
+    left: 118px;
+    top: 57px;
+    width: 5px;
+}
+#dude #duok > span:nth-child(22) {
+    background: none repeat scroll 0 0 #25140A;
+    height: 6px;
+    left: 39px;
+    top: 51px;
+    width: 6px;
+}
+#dude #duok > span:nth-child(23) {
+    background: none repeat scroll 0 0 #5C5855;
+    height: 5px;
+    left: 11px;
+    top: -5px;
+    width: 12px;
+}
+#dude #duok > span:nth-child(24) {
+    background: none repeat scroll 0 0 #0C0B09;
+    height: 6px;
+    left: auto;
+    right: 11px;
+    top: 45px;
+    width: 6px;
+}
+#dude #duok > span.w:nth-child(25) {
+    height: 6px;
+    left: 34px;
+    top: 12px;
+    width: 5px;
+}
+#dude #duok > span.w:nth-child(26) {
+    height: 5px;
+    left: 28px;
+    top: 18px;
+    width: 11px;
+}
+#dude #duok > span.w:nth-child(27) {
+    height: 11px;
+    left: 39px;
+    top: 17px;
+    width: 12px;
+}
+#dude #duok > span.w:nth-child(28) {
+    height: 7px;
+    left: 89px;
+    top: 17px;
+    width: 12px;
+}
+#dude #duok > span.w:nth-child(29) {
+    height: 11px;
+    left: 84px;
+    top: 23px;
+    width: 28px;
+}
+#dude #duok > span.w:nth-child(30) {
+    height: 6px;
+    left: 90px;
+    top: 34px;
+    width: 11px;
+}
+/* nos i policzki */
+#dude #dunp {
+    height: 79px;
+    left: 17px;
+    top: 118px;
+    width: 113px;
+}
+#dude #dunp > span:nth-child(1) {
+    background: none repeat scroll 0 0 #35230D;
+    height: 5px;
+    left: 35px;
+    top: 0;
+    width: 5px;
+}
+#dude #dunp > span:nth-child(2) {
+    background: none repeat scroll 0 0 #745B47;
+    height: 5px;
+    left: 40px;
+    top: 0;
+    width: 5px;
+}
+#dude #dunp > span:nth-child(3) {
+    background: none repeat scroll 0 0 #86592F;
+    height: 6px;
+    left: 35px;
+    top: 5px;
+    width: 5px;
+}
+#dude #dunp > span:nth-child(4) {
+    background: none repeat scroll 0 0 #1F1B18;
+    height: 5px;
+    left: 73px;
+    top: 34px;
+    width: 12px;
+    z-index:1;
+}
+#dude #dunp > span:nth-child(5) {
+    background: none repeat scroll 0 0 #3E2707;
+    height: 6px;
+    left: 107px;
+    top: 22px;
+    width: 6px;
+}
+#dude #dunp > span:nth-child(6) {
+    background: none repeat scroll 0 0 #402806;
+    height: 6px;
+    left: 96px;
+    top: 39px;
+    width: 6px;
+    z-index:1;
+}
+#dude #dunp > span:nth-child(7) {
+    background: none repeat scroll 0 0 #724C1D;
+    height: 5px;
+    left: 91px;
+    top: 56px;
+    width: 5px;
+}
+#dude #dunp > span:nth-child(8) {
+    background: none repeat scroll 0 0 #58361A;
+    height: 6px;
+    left: 62px;
+    top: 50px;
+    width: 6px;
+}
+#dude #dunp > span:nth-child(9) {
+    background: none repeat scroll 0 0 #69421B;
+    height: 5px;
+    left: 29px;
+    top: 17px;
+    width: 6px;
+}
+#dude #dunp > span:nth-child(10) {
+     background: none repeat scroll 0 0 #A9753C;
+     height: 6px;
+     left: 35px;
+     top: 33px;
+     width: 5px;
+ }
+#dude #dunp > span:nth-child(11) {
+    background: none repeat scroll 0 0 #B68252;
+    height: 6px;
+    left: 35px;
+    top: 39px;
+    width: 5px;
+}
+#dude #dunp > span:nth-child(12) {
+    background: none repeat scroll 0 0 #92602D;
+    height: 5px;
+    left: 29px;
+    top: 45px;
+    width: 6px;
+}
+#dude #dunp > span:nth-child(13) {
+    background: none repeat scroll 0 0 #7C552A;
+    height: 5px;
+    left: 23px;
+    top: 45px;
+    width: 6px;
+}
+#dude #dunp > span:nth-child(14) {
+    background: none repeat scroll 0 0 #634A2B;
+    height: 5px;
+    left: 12px;
+    top: 56px;
+    width: 6px;
+}
+#dude #dunp > span:nth-child(15) {
+    background: none repeat scroll 0 0 #412F1B;
+    height: 5px;
+    left: 18px;
+    top: 56px;
+    width: 5px;
+}
+#dude #dunp > span:nth-child(16) {
+    background: none repeat scroll 0 0 #412F1B;
+    height: 6px;
+    left: 12px;
+    top: 61px;
+    width: 6px;
+}
+#dude #dunp > span:nth-child(17) {
+    background: none repeat scroll 0 0 #6D4F35;
+    height: 6px;
+    left: 18px;
+    top: 61px;
+    width: 5px;
+}
+#dude #dunp > span:nth-child(18) {
+    background: none repeat scroll 0 0 #46361F;
+    height: 11px;
+    left: 12px;
+    top: 67px;
+    width: 6px;
+}
+#dude #dunp > span:nth-child(19) {
+    background: none repeat scroll 0 0 #61472E;
+    height: 6px;
+    left: 18px;
+    top: 67px;
+    width: 5px;
+}
+#dude #dunp > span:nth-child(20) {
+    background: none repeat scroll 0 0 #391F10;
+    height: 5px;
+    left: 18px;
+    top: 73px;
+    width: 5px;
+}
+#dude #dunp > span.dunp-c1 {
+    background: none repeat scroll 0 0 #C4814A;
+}
+#dude #dunp > span.dunp-c1:nth-child(21) {
+    height: 17px;
+    left: 40px;
+    top: 5px;
+    width: 5px;
+}
+#dude #dunp > span.dunp-c1:nth-child(22) {
+    height: 22px;
+    left: 35px;
+    top: 11px;
+    width: 5px;
+}
+#dude #dunp > span.dunp-c1:nth-child(23) {
+    background: none repeat scroll 0 0 #AF6F31;
+    height: 11px;
+    left: 29px;
+    top: 22px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c1:nth-child(24) {
+    background: none repeat scroll 0 0 #D6A074;
+    height: 12px;
+    left: 29px;
+    top: 33px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c1:nth-child(25) {
+    background: none repeat scroll 0 0 #A76B2F;
+    height: 12px;
+    left: 23px;
+    top: 33px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c1:nth-child(26) {
+    background: none repeat scroll 0 0 #A26E3F;
+    height: 23px;
+    left: 17px;
+    top: 33px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c1:nth-child(27) {
+    background: none repeat scroll 0 0 #BB8354;
+    height: 23px;
+    left: 11px;
+    top: 33px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c1:nth-child(28) {
+    background: none repeat scroll 0 0 #B1793E;
+    height: 23px;
+    left: 6px;
+    top: 33px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c2 {
+    background: none repeat scroll 0 0 #744A1A;
+}
+#dude #dunp > span.dunp-c2:nth-child(29) {
+    height: 17px;
+    left: 1px;
+    top: 28px;
+    width: 5px;
+}
+#dude #dunp > span.dunp-c2:nth-child(30) {
+    height: 5px;
+    left: 1px;
+    top: 28px;
+    width: 28px;
+}
+#dude #dunp > span.dunp-c2:nth-child(31) {
+    background: none repeat scroll 0 0 #935A15;
+    height: 6px;
+    left: 40px;
+    top: 22px;
+    width: 11px;
+}
+#dude #dunp > span.dunp-c3 {
+    background: #331908;
+}
+#dude #dunp > span.dunp-c3:nth-child(32) {
+    background: none repeat scroll 0 0 #342311;
+    height: 11px;
+    left: 45px;
+    top: 11px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c3:nth-child(33) {
+    background: none repeat scroll 0 0 #342311;
+    height: 16px;
+    left: 51px;
+    top: 17px;
+    width: 5px;
+}
+#dude #dunp > span.dunp-c3:nth-child(34) {
+    background: none repeat scroll 0 0 #342311;
+    height: 6px;
+    left: 51px;
+    top: 28px;
+    width: 7px;
+}
+#dude #dunp > span.dunp-c3:nth-child(35) {
+    height: 28px;
+    left: 57px;
+    top: 28px;
+    width: 5px;
+}
+#dude #dunp > span.dunp-c3:nth-child(36) {
+    height: 16px;
+    left: 57px;
+    top: 34px;
+    width: 11px;
+}
+#dude #dunp > span.dunp-c3:nth-child(37) {
+    height: 5px;
+    left: 57px;
+    top: 34px;
+    width: 50px;
+}
+#dude #dunp > span.dunp-c3:nth-child(38) {
+    height: 16px;
+    left: 102px;
+    top: 34px;
+    width: 5px;
+}
+#dude #dunp > span.dunp-c4 {
+    background: #835524;
+}
+#dude #dunp > span.dunp-c4:nth-child(39) {
+    height: 6px;
+    left: 91px;
+    top: 50px;
+    width: 11px;
+}
+#dude #dunp > span.dunp-c4:nth-child(40) {
+    height: 6px;
+    left: 79px;
+    top: 39px;
+    width: 12px;
+    z-index:1;
+}
+#dude #dunp > span.dunp-c4:nth-child(41) {
+    height: 22px;
+    left: 85px;
+    top: 45px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c4:nth-child(42) {
+    height: 6px;
+    left: 57px;
+    top: 61px;
+    width: 29px;
+}
+#dude #dunp > span.dunp-c4:nth-child(43) {
+    height: 6px;
+    left: 68px;
+    top: 67px;
+    width: 11px;
+    z-index:1;
+}
+#dude #dunp > span.dunp-c4:nth-child(44) {
+    height: 6px;
+    left: 57px;
+    top: 56px;
+    width: 17px;
+    z-index: 1;
+}
+#dude #dunp > span.dunp-c4:nth-child(45) {
+    background: none repeat scroll 0 0 #795427;
+    height: 6px;
+    left: 51px;
+    top: 56px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c4:nth-child(46) {
+    background: none repeat scroll 0 0 #67441A;
+    height: 11px;
+    left: 74px;
+    top: 67px;
+    width: 17px;
+}
+#dude #dunp > span.dunp-c4:nth-child(47) {
+    background: none repeat scroll 0 0 #A37752;
+    height: 22px;
+    left: 68px;
+    top: 39px;
+    width: 17px;
+}
+#dude #dunp > span.dunp-c5 {
+    background: #48331E;
+}
+#dude #dunp > span.dunp-c5:nth-child(48) {
+    background: #48331E;
+    height: 11px;
+    left: 91px;
+    top: 39px;
+    width: 11px;
+}
+#dude #dunp > span.dunp-c5:nth-child(49) {
+    height: 33px;
+    left: 107px;
+    top: 28px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c5:nth-child(50) {
+    height: 18px;
+    left: 102px;
+    top: 50px;
+    width: 5px;
+}
+#dude #dunp > span.dunp-c5:nth-child(51) {
+    height: 5px;
+    left: 96px;
+    top: 56px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c6 {
+    background: #704109;
+}
+#dude #dunp > span.dunp-c6:nth-child(52) {
+    height: 17px;
+    left: 40px;
+    top: 28px;
+    width: 11px;
+}
+#dude #dunp > span.dunp-c6:nth-child(53) {
+    height: 16px;
+    left: 51px;
+    top: 34px;
+    width: 6px;
+}
+#dude #dunp > span.dunp-c7 {
+    background: #56371B;
+}
+#dude #dunp > span.dunp-c7:nth-child(54) {
+    height: 6px;
+    left: 50px;
+    top: 50px;
+    width: 7px;
+}
+#dude #dunp > span.dunp-c7:nth-child(55) {
+    height: 16px;
+    left: 46px;
+    top: 45px;
+    width: 5px;
+}
+#dude #dunp > span.dunp-c7:nth-child(56) {
+    height: 5px;
+    left: 35px;
+    top: 45px;
+    width: 11px;
+}
+#dude #dunp > span.dunp-c7:nth-child(57) {
+    height: 5px;
+    left: 35px;
+    top: 45px;
+    width: 11px;
+}
+#dude #dunp > span.dunp-c7:nth-child(58) {
+    height: 11px;
+    left: 23px;
+    top: 50px;
+    width: 11px;
+}
+#dude #dunp > span.dunp-c7:nth-child(59) {
+    background: none repeat scroll 0 0 #58432E;
+    height: 11px;
+    left: 34px;
+    top: 50px;
+    width: 12px;
+}
+/* usta */
+#dude #duus {
+    height: 57px;
+    left: 35px;
+    top: 179px;
+    width: 51px;
+}
+#dude #duus > span:nth-child(1) {
+    background: none repeat scroll 0 0 #835639;
+    height: 6px;
+    left: 5px;
+    top: 0;
+    width: 6px;
+}
+#dude #duus > span:nth-child(2) {
+    background: none repeat scroll 0 0 #95725C;
+    height: 6px;
+    left: 11px;
+    top: 0;
+    width: 11px;
+}
+#dude #duus > span:nth-child(3) {
+    background: none repeat scroll 0 0 #A08162;
+    height: 6px;
+    left: 5px;
+    top: 6px;
+    width: 11px;
+}
+#dude #duus > span:nth-child(4) {
+    background: none repeat scroll 0 0 #88654F;
+    height: 6px;
+    left: 16px;
+    top: 6px;
+    width: 17px;
+}
+#dude #duus > span:nth-child(5) {
+    background: none repeat scroll 0 0 #7F553C;
+    height: 6px;
+    left: 0;
+    top: 17px;
+    width: 5px;
+}
+#dude #duus > span:nth-child(6) {
+     background: none repeat scroll 0 0 #6B4B34;
+     height: 6px;
+     left: 5px;
+     top: 17px;
+     width: 6px;
+}
+#dude #duus > span:nth-child(7) {
+    background: none repeat scroll 0 0 #C9B39B;
+    height: 6px;
+    left: 11px;
+    top: 17px;
+    width: 5px;
+}
+#dude #duus > span:nth-child(8) {
+    background: none repeat scroll 0 0 #C9B39B;
+    height: 6px;
+    left: 33px;
+    top: 17px;
+    width: 6px;
+}
+#dude #duus > span:nth-child(9) {
+    background: none repeat scroll 0 0 #9E6B50;
+    height: 23px;
+    left: 0;
+    top: 23px;
+    width: 5px;
+}
+#dude #duus > span:nth-child(10) {
+    background: none repeat scroll 0 0 #9E6B50;
+    height: 11px;
+    left: 5px;
+    top: 40px;
+    width: 11px;
+}
+#dude #duus > span:nth-child(11) {
+    background: none repeat scroll 0 0 #A6725A;
+    height: 6px;
+    left: 5px;
+    top: 34px;
+    width: 6px;
+}
+#dude #duus > span:nth-child(12) {
+    background: none repeat scroll 0 0 #CDA089;
+    height: 11px;
+    left: 5px;
+    top: 23px;
+    width: 6px;
+}
+#dude #duus > span:nth-child(13) {
+    background: none repeat scroll 0 0 #E0BAA5;
+    height: 6px;
+    left: 11px;
+    top: 23px;
+    width: 6px;
+}
+#dude #duus > span:nth-child(14) {
+    background: none repeat scroll 0 0 #DAA68E;
+    height: 6px;
+    left: 16px;
+    top: 23px;
+    width: 6px;
+}
+#dude #duus > span:nth-child(15) {
+    background: none repeat scroll 0 0 #AA7758;
+    height: 6px;
+    left: 28px;
+    top: 23px;
+    width: 17px;
+}
+#dude #duus > span:nth-child(16) {
+    background: none repeat scroll 0 0 #9F8064;
+    height: 5px;
+    left: 27px;
+    top: 12px;
+    width: 6px;
+}
+#dude #duus > span:nth-child(17) {
+    background: none repeat scroll 0 0 #C3A08A;
+    height: 6px;
+    left: 39px;
+    top: 34px;
+    width: 11px;
+}
+#dude #duus > span:nth-child(18) {
+    background: none repeat scroll 0 0 #AB7D66;
+    height: 5px;
+    left: 39px;
+    top: 40px;
+    width: 5px;
+}
+#dude #duus > span:nth-child(19) {
+    background: none repeat scroll 0 0 #C3A08A;
+    height: 5px;
+    left: 28px;
+    top: 40px;
+    width: 11px;
+}
+#dude #duus > span:nth-child(20) {
+    background: none repeat scroll 0 0 #7F4F38;
+    height: 6px;
+    left: 28px;
+    top: 45px;
+    width: 11px;
+}
+#dude #duus > span:nth-child(21) {
+    background: none repeat scroll 0 0 #DFB19A;
+    height: 6px;
+    left: 16px;
+    top: 40px;
+    width: 6px;
+}
+#dude #duus > span:nth-child(22) {
+    background: none repeat scroll 0 0 #DFB19A;
+    height: 6px;
+    left: 16px;
+    top: 45px;
+    width: 12px;
+}
+#dude #duus > span:nth-child(23) {
+    background: none repeat scroll 0 0 #A46E52;
+    height: 5px;
+    left: 16px;
+    top: 51px;
+    width: 12px;
+}
+#dude #duus > span:nth-child(24) {
+    background: none repeat scroll 0 0 #FFF4E8;
+    height: 5px;
+    left: 5px;
+    top: 12px;
+    width: 22px;
+}
+#dude #duus > span:nth-child(25) {
+    background: none repeat scroll 0 0 #FFF4E8;
+    height: 6px;
+    left: 16px;
+    top: 17px;
+    width: 17px;
+}
+#dude #duus > span:nth-child(26) {
+    background: none repeat scroll 0 0 #CB937A;
+    height: 6px;
+    left: 22px;
+    top: 23px;
+    width: 6px;
+}
+#dude #duus > span:nth-child(27) {
+    background: none repeat scroll 0 0 #CB937A;
+    height: 5px;
+    left: 16px;
+    top: 29px;
+    width: 29px;
+}
+#dude #duus > span:nth-child(28) {
+    background: none repeat scroll 0 0 #F5D8CA;
+    height: 11px;
+    left: 11px;
+    top: 29px;
+    width: 5px;
+}
+#dude #duus > span:nth-child(29) {
+    background: none repeat scroll 0 0 #F5D8CA;
+    height: 6px;
+    left: 11px;
+    top: 34px;
+    width: 28px;
+}
+#dude #duus > span:nth-child(30) {
+    background: none repeat scroll 0 0 #F5D8CA;
+    height: 5px;
+    left: 22px;
+    top: 40px;
+    width: 6px;
+}
+#dude #duus > span:nth-child(31) {
+    background: none repeat scroll 0 0 #644330;
+    height: 6px;
+    left: 22px;
+    top: 0;
+    width: 6px;
+}
+/* blask */
+#dude #dubl {
+    height: 141px;
+    left: 125px;
+    top: 61px;
+    width: 57px;
+}
+#dude #dubl > span.dubl-c1 {
+    background: #8E7B74;
+}
+#dude #dubl > span.dubl-c1:nth-child(1) {
+    background: #8E7B77;
+    height: 6px;
+    left: 16px;
+    top: 0;
+    width: 5px;
+}
+#dude #dubl > span.dubl-c1:nth-child(2) {
+    height: 6px;
+    left: 22px;
+    top: 6px;
+    width: 5px;
+}
+#dude #dubl > span.dubl-c1:nth-child(3) {
+    height: 6px;
+    left: 22px;
+    top: 12px;
+    width: 23px;
+}
+#dude #dubl > span.dubl-c1:nth-child(4) {
+    height: 17px;
+    left: 22px;
+    top: 17px;
+    width: 28px;
+}
+#dude #dubl > span.dubl-c1:nth-child(5) {
+    height: 6px;
+    left: 33px;
+    top: 34px;
+    width: 23px;
+}
+#dude #dubl > span.dubl-c2 {
+    background: #807267;
+}
+#dude #dubl > span.dubl-c2:nth-child(6) {
+    height: 28px;
+    left: 11px;
+    top: 6px;
+    width: 11px;
+}
+#dude #dubl > span.dubl-c2:nth-child(7) {
+    height: 22px;
+    left: 0;
+    top: 12px;
+    width: 11px;
+}
+#dude #dubl > span.dubl-c2:nth-child(8) {
+    height: 11px;
+    left: 11px;
+    top: 34px;
+    width: 22px;
+}
+#dude #dubl > span.dubl-c2:nth-child(9) {
+    height: 5px;
+    left: 33px;
+    top: 40px;
+    width: 6px;
+}
+#dude #dubl > span.dubl-c2:nth-child(10) {
+    background: #796658;
+    height: 5px;
+    left: -6px;
+    top: 40px;
+    width: 5px;
+}
+#dude #dubl > span.dubl-c2:nth-child(11) {
+    background: none repeat scroll 0 0 #807267;
+    height: 6px;
+    left: -1px;
+    top: 45px;
+    width: 12px;
+}
+#dude #dubl > span.dubl-c2:nth-child(12) {
+    background: none repeat scroll 0 0 #574C46;
+    height: 6px;
+    left: -6px;
+    top: 45px;
+    width: 5px;
+}
+#dude #dubl > span.dubl-c3 {
+    background: #A9A09B;
+}
+#dude #dubl > span.dubl-c3:nth-child(13) {
+    height: 6px;
+    left: 11px;
+    top: 45px;
+    width: 33px;
+}
+#dude #dubl > span.dubl-c3:nth-child(14) {
+    background: none repeat scroll 0 0 #8C817B;
+    height: 5px;
+    left: -1px;
+    top: 51px;
+    width: 17px;
+}
+#dude #dubl > span.dubl-c3:nth-child(15) {
+    background: none repeat scroll 0 0 #C9C9C7;
+    height: 5px;
+    left: 16px;
+    top: 51px;
+    width: 40px;
+}
+#dude #dubl > span.dubl-c3:nth-child(16) {
+    background: none repeat scroll 0 0 #C9C9C7;
+    height: 7px;
+    left: 50px;
+    top: 56px;
+    width: 6px;
+}
+#dude #dubl > span.dubl-c3:nth-child(17) {
+    background: none repeat scroll 0 0 #A79F9C;
+    height: 6px;
+    left: 16px;
+    top: 56px;
+    width: 17px;
+}
+#dude #dubl > span.dubl-c3:nth-child(18) {
+    background: none repeat scroll 0 0 #A59890;
+    height: 7px;
+    left: 33px;
+    top: 56px;
+    width: 17px;
+}
+#dude #dubl > span.dubl-c3:nth-child(19) {
+    background: none repeat scroll 0 0 #A79891;
+    height: 6px;
+    left: 16px;
+    top: 62px;
+    width: 28px;
+}
+#dude #dubl > span.dubl-c3:nth-child(20) {
+    background: none repeat scroll 0 0 #A79891;
+    height: 11px;
+    left: 16px;
+    top: 68px;
+    width: 17px;
+}
+#dude #dubl > span.dubl-c4 {
+    background: none repeat scroll 0 0 #8E7B74;
+}
+#dude #dubl > span.dubl-c4:nth-child(21) {
+    height: 17px;
+    left: 33px;
+    top: 68px;
+    width: 6px;
+}
+#dude #dubl > span.dubl-c4:nth-child(22) {
+    height: 6px;
+    left: 10px;
+    top: 79px;
+    width: 23px
+}
+#dude #dubl > span.dubl-c4:nth-child(23) {
+    height: 11px;
+    left: 16px;
+    top: 85px;
+    width: 17px;
+}
+#dude #dubl > span.dubl-c4:nth-child(24) {
+    height: 6px;
+    left: 21px;
+    top: 96px;
+    width: 7px;
+}
+#dude #dubl > span.dubl-c5 {
+    background: #5A4B46;
+}
+#dude #dubl > span.dubl-c5:nth-child(25) {
+    height: 17px;
+    left: 10px;
+    top: 62px;
+    width: 6px;
+}
+#dude #dubl > span.dubl-c5:nth-child(26) {
+    height: 28px;
+    left: 10px;
+    top: 85px;
+    width: 6px;
+}
+#dude #dubl > span.dubl-c5:nth-child(27) {
+    height: 28px;
+    left: 16px;
+    top: 96px;
+    width: 5px;
+}
+#dude #dubl > span.dubl-c5:nth-child(28) {
+    height: 28px;
+    left: 21px;
+    top: 102px;
+    width: 7px;
+}
+#dude #dubl > span.dubl-c5:nth-child(29) {
+    height: 22px;
+    left: 28px;
+    top: 96px;
+    width: 5px;
+}
+#dude #dubl > span.dubl-c5:nth-child(30) {
+    height: 17px;
+    left: 33px;
+    top: 85px;
+    width: 6px;
+}
+#dude #dubl > span.dubl-c5:nth-child(31) {
+    height: 11px;
+    left: 39px;
+    top: 96px;
+    width: 5px;
+}
+#dude #dubl > span.dubl-c6:nth-child(32) {
+    background: none repeat scroll 0 0 #6F5E54;
+    height: 51px;
+    left: 5px;
+    top: 62px;
+    width: 5px;
+}
+#dude #dubl > span.dubl-c6:nth-child(33) {
+    background: none repeat scroll 0 0 #856F64;
+    height: 12px;
+    left: 28px;
+    top: 118px;
+    width: 5px;
+}
+#dude #dubl > span.dubl-c6:nth-child(34) {
+    background: none repeat scroll 0 0 #856F64;
+    height: 6px;
+    left: 28px;
+    top: 135px;
+    width: 5px;
+}
+/* broda */
+#dude #dubi {
+    height: 106px;
+    left: 18px;
+    top: 163px;
+    width: 151px;
+}
+#dude #dubi > span.dubi-c1 {
+    background:#352410;
+}
+#dude #dubi > span.dubi-c1:nth-child(1) {
+    height: 11px;
+    left: auto;
+    right: 16px;
+    top: 28px;
+    width: 7px;
+}
+#dude #dubi > span.dubi-c1:nth-child(2) {
+    height: 23px;
+    left: auto;
+    right: 23px;
+    top: 22px;
+    width: 5px;
+}
+#dude #dubi > span.dubi-c1:nth-child(3) {
+    height: 45px;
+    left: auto;
+    right: 28px;
+    top: 11px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c1:nth-child(4) {
+    height: 46px;
+    left: auto;
+    right: 39px;
+    top: 16px;
+    width: 6px;
+}
+
+#dude #dubi > span.dubi-c1:nth-child(5) {
+    height: 51px;
+    left: auto;
+    right: 45px;
+    top: 22px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c1:nth-child(6) {
+    height: 57px;
+    left: auto;
+    right: 50px;
+    top: 16px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c1:nth-child(7) {
+    height: 51px;
+    left: auto;
+    right: 61px;
+    top: 33px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c1:nth-child(8) {
+    height: 17px;
+    left: auto;
+    right: 67px;
+    top: 33px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c1:nth-child(9) {
+    height: 6px;
+    left: auto;
+    right: 67px;
+    top: 78px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c1:nth-child(10) {
+    background: none repeat scroll 0 0 #322512;
+    height: 18px;
+    left: auto;
+    right: 73px;
+    top: 72px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c1:nth-child(11) {
+    background: none repeat scroll 0 0 #322512;
+    height: 12px;
+    left: auto;
+    right: 79px;
+    top: 78px;
+    width: 5px;
+}
+#dude #dubi > span.dubi-c1:nth-child(12) {
+    background: none repeat scroll 0 0 #322512;
+    height: 6px;
+    left: auto;
+    right: 84px;
+    top: 84px;
+    width: 5px;
+}
+#dude #dubi > span.dubi-c2 {
+        background: #443629;
+}
+#dude #dubi > span.dubi-c2:nth-child(13) {
+    height: 17px;
+    left: auto;
+    right: 0;
+    top: 11px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c2:nth-child(14) {
+    height: 33px;
+    left: auto;
+    right: 5px;
+    top: 0;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c2:nth-child(15) {
+    height: 5px;
+    left: auto;
+    right: 10px;
+    top: 28px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c3 {
+    background: #564335;
+}
+#dude #dubi > span.dubi-c3:nth-child(16) {
+    height: 6px;
+    left: auto;
+    right: 11px;
+    top: 39px;
+    width: 12px;
+}
+#dude #dubi > span.dubi-c3:nth-child(17) {
+    height: 11px;
+    left: auto;
+    right: 16px;
+    top: 45px;
+    width: 12px;
+}
+#dude #dubi > span.dubi-c3:nth-child(18) {
+    height: 6px;
+    left: auto;
+    right: 22px;
+    top: 56px;
+    width: 17px;
+}
+#dude #dubi > span.dubi-c3:nth-child(19) {
+    background: none repeat scroll 0 0 #45372A;
+    height: 11px;
+    left: auto;
+    right: 28px;
+    top: 62px;
+    width: 17px;
+}
+#dude #dubi > span.dubi-c3:nth-child(20) {
+    background: none repeat scroll 0 0 #45372A;
+    height: 5px;
+    left: auto;
+    right: 39px;
+    top: 73px;
+    width: 17px;
+}
+#dude #dubi > span.dubi-c3:nth-child(21) {
+    background: none repeat scroll 0 0 #45372A;
+    height: 6px;
+    left: auto;
+    right: 50px;
+    top: 78px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c4 {
+    background: none repeat scroll 0 0 #372C1A;
+}
+#dude #dubi > span.dubi-c4:nth-child(22) {
+    height: 11px;
+    left: auto;
+    right: 56px;
+    top: 73px;
+    width: 5px;
+}
+#dude #dubi > span.dubi-c4:nth-child(23) {
+    height: 11px;
+    left: auto;
+    right: 67px;
+    top: 67px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c4:nth-child(24) {
+    height: 6px;
+    left: auto;
+    right: 78px;
+    top: 72px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c4:nth-child(25) {
+    height: 6px;
+    left: auto;
+    right: 72px;
+    top: 84px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c4:nth-child(26) {
+    height: 5px;
+    left: auto;
+    right: 78px;
+    top: 90px;
+    width: 45px;
+}
+#dude #dubi > span.dubi-c4:nth-child(27) {
+    height: 6px;
+    left: auto;
+    right: 117px;
+    top: 84px;
+    width: 12px;
+}
+#dude #dubi > span.dubi-c4:nth-child(28) {
+    height: 6px;
+    left: auto;
+    right: 123px;
+    top: 78px;
+    width: 12px;
+}
+#dude #dubi > span.dubi-c4:nth-child(29) {
+    height: 6px;
+    left: auto;
+    right: 129px;
+    top: 72px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c5 {
+    background: #14110A;
+}
+#dude #dubi > span.dubi-c5:nth-child(30) {
+    height: 6px;
+    left: auto;
+    right: 134px;
+    top: 78px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c5:nth-child(31) {
+    height: 6px;
+    left: auto;
+    right: 129px;
+    top: 84px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c5:nth-child(32) {
+    height: 5px;
+    left: auto;
+    right: 123px;
+    top: 90px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c5:nth-child(33) {
+    height: 6px;
+    left: auto;
+    right: 62px;
+    top: 95px;
+    width: 61px;
+}
+#dude #dubi > span.dubi-c5:nth-child(34) {
+    height: 5px;
+    left: auto;
+    right: 67px;
+    top: 101px;
+    width: 45px;
+}
+#dude #dubi > span.dubi-c5:nth-child(35) {
+    height: 5px;
+    left: auto;
+    right: 56px;
+    top: 90px;
+    width: 22px;
+}
+#dude #dubi > span.dubi-c5:nth-child(36) {
+    height: 5px;
+    left: auto;
+    right: 56px;
+    top: 90px;
+    width: 22px;
+}
+#dude #dubi > span.dubi-c5:nth-child(37) {
+    height: 6px;
+    left: auto;
+    right: 44px;
+    top: 84px;
+    width: 28px;
+}
+#dude #dubi > span.dubi-c5:nth-child(38) {
+    height: 6px;
+    left: auto;
+    right: 33px;
+    top: 78px;
+    width: 17px;
+}
+#dude #dubi > span.dubi-c5:nth-child(39) {
+    height: 5px;
+    left: auto;
+    right: 28px;
+    top: 73px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c5:nth-child(40) {
+    height: 11px;
+    left: auto;
+    right: 22px;
+    top: 62px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c5:nth-child(41) {
+    height: 11px;
+    left: auto;
+    right: 16px;
+    top: 56px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c5:nth-child(42) {
+    height: 6px;
+    left: auto;
+    right: 11px;
+    top: 56px;
+    width: 5px;
+}
+#dude #dubi > span.dubi-c5:nth-child(43) {
+    height: 11px;
+    left: auto;
+    right: 5px;
+    top: 45px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c5:nth-child(44) {
+    height: 13px;
+    left: auto;
+    right: 5px;
+    top: 33px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c5:nth-child(45) {
+    height: 11px;
+    left: auto;
+    right: 0;
+    top: 28px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c6 {
+    background: #594129;
+}
+#dude #dubi > span.dubi-c6:nth-child(46) {
+    height: 17px;
+    left: auto;
+    right: 67px;
+    top: 50px;
+    width: 12px;
+}
+#dude #dubi > span.dubi-c6:nth-child(47) {
+    height: 11px;
+    left: auto;
+    right: 73px;
+    top: 61px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c6:nth-child(48) {
+    height: 17px;
+    left: auto;
+    right: 84px;
+    top: 67px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c6:nth-child(49) {
+    height: 6px;
+    left: auto;
+    right: 90px;
+    top: 78px;
+    width: 22px;
+}
+#dude #dubi > span.dubi-c7 {
+    background: #7A583C;
+}
+#dude #dubi > span.dubi-c7:nth-child(50) {
+    height: 6px;
+    left: auto;
+    right: 89px;
+    top: 84px;
+    width: 28px;
+}
+#dude #dubi > span.dubi-c7:nth-child(51) {
+    height: 6px;
+    left: auto;
+    right: 112px;
+    top: 78px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c7:nth-child(52) {
+    height: 6px;
+    left: auto;
+    right: 117px;
+    top: 72px;
+    width: 12px;
+}
+#dude #dubi > span.dubi-c7:nth-child(53) {
+    height: 10px;
+    left: auto;
+    right: 129px;
+    top: 62px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c8 {
+    background: #432813;
+}
+#dude #dubi > span.dubi-c8:nth-child(54) {
+    height: 12px;
+    left: auto;
+    right: 73px;
+    top: 33px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c8:nth-child(55) {
+    height: 12px;
+    left: auto;
+    right: 73px;
+    top: 33px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c8:nth-child(56) {
+    height: 11px;
+    left: auto;
+    right: 78px;
+    top: 28px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c8:nth-child(57) {
+    height: 11px;
+    left: auto;
+    right: 84px;
+    top: 22px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c8:nth-child(58) {
+    height: 12px;
+    left: auto;
+    right: 95px;
+    top: 16px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c8:nth-child(59) {
+    height: 6px;
+    left: auto;
+    right: 100px;
+    top: 16px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c8:nth-child(60) {
+    background: none repeat scroll 0 0 #462B0E;
+    height: 11px;
+    left: auto;
+    right: 84px;
+    top: 56px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c8:nth-child(61) {
+    background: none repeat scroll 0 0 #462B0E;
+    height: 17px;
+    left: auto;
+    right: 90px;
+    top: 61px;
+    width: 5px;
+}
+#dude #dubi > span.dubi-c8:nth-child(62) {
+    background: none repeat scroll 0 0 #462B0E;
+    height: 6px;
+    left: auto;
+    right: 95px;
+    top: 72px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c8:nth-child(63) {
+    background: none repeat scroll 0 0 #472C0F;
+    height: 5px;
+    left: auto;
+    right: 118px;
+    top: 67px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c8:nth-child(64) {
+    background: none repeat scroll 0 0 #1E1707;
+    height: 5px;
+    left: auto;
+    right: 95px;
+    top: 67px;
+    width: 11px;
+}
+#dude #dubi > span.dubi-c8:nth-child(65) {
+    background: none repeat scroll 0 0 #1E1707;
+    height: 6px;
+    left: auto;
+    right: 101px;
+    top: 72px;
+    width: 16px;
+}
+#dude #dubi > span.dubi-c9 {
+    background: #56371A;
+}
+#dude #dubi > span.dubi-c9:nth-child(66) {
+    height: 45px;
+    left: 0;
+    top: 0;
+    width: 5px;
+}
+#dude #dubi > span.dubi-c9:nth-child(67) {
+    height: 50px;
+    left: 5px;
+    top: 11px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c9:nth-child(68) {
+    height: 16px;
+    left: 11px;
+    top: 56px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c9:nth-child(69) {
+    background: none repeat scroll 0 0 #7F583B;
+    height: 11px;
+    left: auto;
+    right: 79px;
+    top: 50px;
+    width: 5px;
+}
+#dude #dubi > span.dubi-c9:nth-child(70) {
+    background: none repeat scroll 0 0 #745334;
+    height: 5px;
+    left: auto;
+    right: 73px;
+    top: 45px;
+    width: 16px;
+}
+#dude #dubi > span.dubi-c9:nth-child(71) {
+    background: none repeat scroll 0 0 #785633;
+    height: 23px;
+    left: 11px;
+    top: 33px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c9:nth-child(72) {
+    background: none repeat scroll 0 0 #664429;
+    height: 6px;
+    left: auto;
+    right: 84px;
+    top: 39px;
+    width: 5px;
+}
+#dude #dubi > span.dubi-c9:nth-child(73) {
+    background: none repeat scroll 0 0 #7C6247;
+    height: 6px;
+    left: auto;
+    right: 89px;
+    top: 33px;
+    width: 6px;
+}
+#dude #dubi > span.dubi-c9:nth-child(74) {
+    background: none repeat scroll 0 0 #654629;
+    height: 5px;
+    left: auto;
+    right: 95px;
+    top: 28px;
+    width: 6px;
+}
+
+/* poprawki */
+#dude #dupo {
+    width:100%;
+    height:100%;
+    left:0;
+    top:0;
+}
+#dude #dupo > span:nth-child(1) {
+    background: none repeat scroll 0 0 #715C47;
+    height: 6px;
+    left: 29px;
+    top: 61px;
+    width: 6px;
+}
+#dude #dupo > span:nth-child(2) {
+    background: none repeat scroll 0 0 #725F51;
+    height: 6px;
+    left: 23px;
+    top: 78px;
+    width: 6px;
+}
+#dude #dupo > span:nth-child(3) {
+    background: none repeat scroll 0 0 #504B45;
+    height: 5px;
+    left: auto;
+    right: 33px;
+    top: 219px;
+    width: 6px;
+}
+#dude #dupo > span:nth-child(4) {
+    background: none repeat scroll 0 0 #504B45;
+    height: 5px;
+    left: auto;
+    right: 39px;
+    top: 225px;
+    width: 5px;
+}
+#dude #dupo > span:nth-child(5) {
+    background: none repeat scroll 0 0 #605953;
+    height: 6px;
+    left: auto;
+    right: 44px;
+    top: 230px;
+    width: 6px;
+}
+#dude #dupo > span:nth-child(6) {
+    background: none repeat scroll 0 0 #4B4640;
+    height: 5px;
+    left: auto;
+    right: 50px;
+    top: 236px;
+    width: 6px;
+}
