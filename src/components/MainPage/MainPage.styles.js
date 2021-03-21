@@ -1,0 +1,21 @@
+import styled from 'styled-components';
+
+const List = styled.ul`
+  display: flex;
+  flex-wrap: wrap;
+  margin: -calc(${(props) => props.theme.layout.sidePadding} / 2);
+`;
+
+const ListItem = styled.li`
+  display: block;
+  width: calc(25% - ${(props) => props.theme.layout.sidePadding});
+  height: 30rem;
+  border-radius: 1rem;
+  background: ${(props) => props.theme.color.blue};
+  margin: calc(${(props) => props.theme.layout.sidePadding} / 2);
+`;
+
+export {
+  List,
+  ListItem
+};
