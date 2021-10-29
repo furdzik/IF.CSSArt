@@ -4,7 +4,7 @@ export const theme = {
   ...colors,
   ...typography,
   layout: {
-    width: '100rem',
+    width: '190rem',
     sidePadding: '3rem',
     background: colors.monoColors.white
   }
